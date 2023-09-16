@@ -6,7 +6,6 @@ A simple movie web application for movies.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Built with](#built-with)
 - [Dependencies](#dependencies)
 
 ## Installation
@@ -21,13 +20,6 @@ To start the server, run: `npm start`
 
 Open your browser and navigate to `http://localhost:3000`.
 
-## Built with
-
-- [React](https://reactjs.org/) - JS library
-- [TailwindCSS](https://tailwindcss.com/) - CSS framework
-- [React Router](https://reactrouter.com/) - React library
-- [Tmdb Api](https://developer.themoviedb.org/reference/intro/getting-started) - Api endpoint
-
 ## Dependencies
 
-this app requires [React-script], and [React-Router] installed
+this app requires [React-script](https://www.npmjs.com/package/react-scripts), and [React-Router](https://reactrouter.com/) installed
